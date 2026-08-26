@@ -1,0 +1,10 @@
+.DS_Store
+.python-version
+.pytest_cache/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated response-curve caches and local reruns
+table2_rebound_cache/
+results/local_*.csv

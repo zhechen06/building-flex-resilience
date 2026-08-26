@@ -1,0 +1,9 @@
+model,method,delta_p1_mw,delta_p2_mw,time_s
+2R2C,Numerical,-1.3117,0.3368,249.6
+2R2C,Analytical,-1.3117,0.3368,0.0262
+2R2C,Proposed (curves unsaved),-1.3117,0.3368,1.214
+2R2C,Proposed (curves saved),-1.3117,0.3368,0.0102
+5R4C,Numerical,-2.5409,0.5065,598.6
+5R4C,Analytical,,,
+5R4C,Proposed (curves unsaved),-2.5409,0.5065,2.414
+5R4C,Proposed (curves saved),-2.5409,0.5065,0.0096

@@ -1,0 +1,18 @@
+[project]
+name = "building-flex-resilience"
+version = "1.0.0"
+description = "Reproducibility code for response-curve-based building AC flexibility and resilience evaluation"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.24",
+    "scipy>=1.10",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
